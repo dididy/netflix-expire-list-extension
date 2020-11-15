@@ -1,0 +1,34 @@
+name: Deploy Json
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: CURL
+        run: |
+            mkdir api && touch list.json
+            curl --request GET \
+            --url https://unogsng.p.rapidapi.com/expiring?countrylist=348 \
+            --header 'x-rapidapi-host: unogsng.p.rapidapi.com' \
+            --header 'x-rapidapi-key: ${{ secrets.RAPID_API_KEY }}' >> api/list.json
+
+      - name: Deploy json to gh-pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: api
+          CLEAN: true
