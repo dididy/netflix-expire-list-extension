@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Netflix Expiring List",
+    "short_name": "netflix-expire",
+    "version": "1.0.0",
+    "description": "곧 만료될 넷플릭스 작품",
+    "icons": {
+      "16": "icons/16.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+    },
+    "browser_action": {
+      "default_title": "Netflix Expiring List",
+      "default_popup": "index.html"
+    },
+    "permissions": []
+  }
