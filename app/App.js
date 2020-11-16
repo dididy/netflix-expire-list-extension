@@ -98,7 +98,7 @@ export default function App() {
       <Header />
       {lists.map((val) => (
         <WrapEach
-          key={val.id}
+          key={val.netflixid}
           onClick={() =>
             window.open(
               `https://www.netflix.com/kr/title/${val.netflixid}`,
