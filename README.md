@@ -1,4 +1,4 @@
-# [Netflix Expire Counter](chrome.google.com/webstore/detail/netflix-expire-counter/hnahcihappflgfhjfhoogjjfklkemeed)
+# [Netflix Expire Counter](https://chrome.google.com/webstore/detail/netflix-expire-counter/hnahcihappflgfhjfhoogjjfklkemeed)
 > 곧 만료되는 Netflix 작품들을 확인하는 Chrome Extension
 
 ## 왜 만들었나?
@@ -13,8 +13,4 @@ React와 Webpack 기반 [Chrome Extension 보일러플레이트](https://medium.
 
 ## 앞으로 할 일
 
-- [x]  Chrome 웹 스토어 등록 - [Link](chrome.google.com/webstore/detail/netflix-expire-counter/hnahcihappflgfhjfhoogjjfklkemeed)
-- [ ]  localStorage를 이용해 오프라인에서도 작동할 수 있도록 함
-- [ ]  국가별로 확인할 수 있는 옵션 추가
-- [ ]  호버하면 포스터 표시하는 기능 추가
-- [ ]  디자인 및 유저 편의성 작업
+- [Issue](https://github.com/dididy/netflix-expire-list-extension/issues)
