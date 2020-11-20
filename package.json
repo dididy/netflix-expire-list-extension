@@ -4,7 +4,8 @@
   "description": "곧 만료되는 Netflix 작품들을 확인하는 Chrome Extension",
   "main": "index.js",
   "scripts": {
-    "dev": "NODE_ENV=development webpack --mode development --config webpack.js --watch"
+    "dev": "NODE_ENV=development webpack --mode development --config webpack.js --watch",
+    "test": "jest --watchAll --coverage"
   },
   "repository": {
     "type": "git",
@@ -34,8 +35,15 @@
     "webpack-extension-manifest-plugin": "^0.5.0"
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.1",
+    "@types/jest": "^26.0.15",
     "babel-polyfill": "^6.26.0",
     "copy-webpack-plugin": "^6.3.1",
-    "html-webpack-plugin": "^4.5.0"
+    "given2": "^2.1.7",
+    "html-webpack-plugin": "^4.5.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^26.6.3",
+    "jest-plugin-context": "^2.9.0"
   }
 }
