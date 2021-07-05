@@ -103,16 +103,22 @@
             "title": "The Ryuo&#39;s Work is Never Done!"
         },
         {
-            "netflixid": 81140933,
-            "expiredate": "2021-07-09",
+            "netflixid": 80114172,
+            "expiredate": "2021-07-10",
             "countrycode": "KR",
-            "title": "Little Women"
+            "title": "La tortue rouge"
         },
         {
             "netflixid": 80106989,
             "expiredate": "2021-07-09",
             "countrycode": "KR",
             "title": "Summer of &#39;92"
+        },
+        {
+            "netflixid": 81140933,
+            "expiredate": "2021-07-09",
+            "countrycode": "KR",
+            "title": "Little Women"
         },
         {
             "netflixid": 80103331,
@@ -137,14 +143,8 @@
             "expiredate": "2021-07-06",
             "countrycode": "KR",
             "title": "Catwalk: Tales from the Cat Show Circuit"
-        },
-        {
-            "netflixid": 80170277,
-            "expiredate": "2021-07-05",
-            "countrycode": "KR",
-            "title": "Speech and Debate"
         }
     ],
     "total": 24,
-    "elapse": 0.0039
+    "elapse": 0.0037
 }
