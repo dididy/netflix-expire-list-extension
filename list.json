@@ -13,10 +13,10 @@
             "title": "Skins"
         },
         {
-            "netflixid": 70305043,
+            "netflixid": 80187572,
             "expiredate": "2021-07-31",
             "countrycode": "KR",
-            "title": "Hinterland"
+            "title": "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
         },
         {
             "netflixid": 80192979,
@@ -31,16 +31,22 @@
             "title": "Hakata Tonkotsu Ramens"
         },
         {
-            "netflixid": 81093676,
-            "expiredate": "2021-07-31",
-            "countrycode": "KR",
-            "title": "A Sister&#39;s All You Need"
-        },
-        {
             "netflixid": 81093690,
             "expiredate": "2021-07-31",
             "countrycode": "KR",
             "title": "Haven&#39;t You Heard? I&#39;m Sakamoto"
+        },
+        {
+            "netflixid": 80201315,
+            "expiredate": "2021-07-31",
+            "countrycode": "KR",
+            "title": "Gangsta."
+        },
+        {
+            "netflixid": 70305043,
+            "expiredate": "2021-07-31",
+            "countrycode": "KR",
+            "title": "Hinterland"
         },
         {
             "netflixid": 80106611,
@@ -73,22 +79,16 @@
             "title": "Miss Rose"
         },
         {
-            "netflixid": 80201315,
-            "expiredate": "2021-07-31",
-            "countrycode": "KR",
-            "title": "Gangsta."
-        },
-        {
             "netflixid": 80160755,
             "expiredate": "2021-07-31",
             "countrycode": "KR",
             "title": "Grand Designs"
         },
         {
-            "netflixid": 80187572,
+            "netflixid": 81093676,
             "expiredate": "2021-07-31",
             "countrycode": "KR",
-            "title": "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
+            "title": "A Sister&#39;s All You Need"
         },
         {
             "netflixid": 70293417,
@@ -109,6 +109,18 @@
             "title": "The Ryuo&#39;s Work is Never Done!"
         },
         {
+            "netflixid": 70286328,
+            "expiredate": "2021-07-12",
+            "countrycode": "KR",
+            "title": "So Young"
+        },
+        {
+            "netflixid": 60027486,
+            "expiredate": "2021-07-12",
+            "countrycode": "KR",
+            "title": "Cube"
+        },
+        {
             "netflixid": 80114172,
             "expiredate": "2021-07-10",
             "countrycode": "KR",
@@ -125,26 +137,8 @@
             "expiredate": "2021-07-09",
             "countrycode": "KR",
             "title": "Little Women"
-        },
-        {
-            "netflixid": 80103331,
-            "expiredate": "2021-07-07",
-            "countrycode": "KR",
-            "title": "Magi: Adventure of Sinbad"
-        },
-        {
-            "netflixid": 80048977,
-            "expiredate": "2021-07-07",
-            "countrycode": "KR",
-            "title": "The Invitation"
-        },
-        {
-            "netflixid": 80080359,
-            "expiredate": "2021-07-07",
-            "countrycode": "KR",
-            "title": "Arms and the Dudes"
         }
     ],
-    "total": 24,
-    "elapse": 0.0034
+    "total": 23,
+    "elapse": 0.0048
 }
