@@ -7,6 +7,12 @@
             "title": "The Investigator: A British Crime Story"
         },
         {
+            "netflixid": 80093324,
+            "expiredate": "2021-08-18",
+            "countrycode": "KR",
+            "title": "Empress Gi"
+        },
+        {
             "netflixid": 80076261,
             "expiredate": "2021-08-18",
             "countrycode": "KR",
@@ -17,12 +23,6 @@
             "expiredate": "2021-08-18",
             "countrycode": "KR",
             "title": "Personal Taste"
-        },
-        {
-            "netflixid": 80093324,
-            "expiredate": "2021-08-18",
-            "countrycode": "KR",
-            "title": "Empress Gi"
         },
         {
             "netflixid": 70143844,
@@ -37,12 +37,6 @@
             "title": "Love and Marriage"
         },
         {
-            "netflixid": 81218137,
-            "expiredate": "2021-08-04",
-            "countrycode": "KR",
-            "title": "#cats_the_mewvie"
-        },
-        {
             "netflixid": 81035838,
             "expiredate": "2021-08-04",
             "countrycode": "KR",
@@ -55,6 +49,12 @@
             "title": "Detention Letter"
         },
         {
+            "netflixid": 81218137,
+            "expiredate": "2021-08-04",
+            "countrycode": "KR",
+            "title": "#cats_the_mewvie"
+        },
+        {
             "netflixid": 80988815,
             "expiredate": "2021-08-03",
             "countrycode": "KR",
@@ -65,20 +65,8 @@
             "expiredate": "2021-08-03",
             "countrycode": "KR",
             "title": "Dragonheart: Vengeance"
-        },
-        {
-            "netflixid": 80227672,
-            "expiredate": "2021-08-01",
-            "countrycode": "KR",
-            "title": "Forever Chape"
-        },
-        {
-            "netflixid": 70140438,
-            "expiredate": "2021-08-01",
-            "countrycode": "KR",
-            "title": "Skins"
         }
     ],
-    "total": 13,
-    "elapse": 0.005
+    "total": 11,
+    "elapse": 0.0029
 }
