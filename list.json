@@ -107,26 +107,8 @@
             "expiredate": "2021-08-08",
             "countrycode": "KR",
             "title": "Denis Leary: No Cure For Cancer"
-        },
-        {
-            "netflixid": 81035838,
-            "expiredate": "2021-08-04",
-            "countrycode": "KR",
-            "title": "Alarmoty in the Land of Fire"
-        },
-        {
-            "netflixid": 81035835,
-            "expiredate": "2021-08-04",
-            "countrycode": "KR",
-            "title": "Detention Letter"
-        },
-        {
-            "netflixid": 81218137,
-            "expiredate": "2021-08-04",
-            "countrycode": "KR",
-            "title": "#cats_the_mewvie"
         }
     ],
-    "total": 21,
-    "elapse": 0.0033
+    "total": 18,
+    "elapse": 0.0034
 }
