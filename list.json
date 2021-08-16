@@ -13,16 +13,16 @@
             "title": "Easy Fortune Happy Life"
         },
         {
-            "netflixid": 80993368,
-            "expiredate": "2021-08-31",
-            "countrycode": "KR",
-            "title": "Restaurant to Another World"
-        },
-        {
             "netflixid": 80193136,
             "expiredate": "2021-08-31",
             "countrycode": "KR",
             "title": "WorldEnd: What are you\u2005doing\u2005at\u2005the\u2005end\u2005of\u2005the\u2005world?\u2005Are\u2005you\u2005busy?\u2005Will\u2005you\u2005save\u2005us?"
+        },
+        {
+            "netflixid": 80214725,
+            "expiredate": "2021-08-31",
+            "countrycode": "KR",
+            "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn&#39;t Exist"
         },
         {
             "netflixid": 80193052,
@@ -67,10 +67,16 @@
             "title": "Lucky Days"
         },
         {
-            "netflixid": 80214725,
+            "netflixid": 80993368,
             "expiredate": "2021-08-31",
             "countrycode": "KR",
-            "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn&#39;t Exist"
+            "title": "Restaurant to Another World"
+        },
+        {
+            "netflixid": 80000643,
+            "expiredate": "2021-08-21",
+            "countrycode": "KR",
+            "title": "Birdman or (The Unexpected Virtue of Ignorance)"
         },
         {
             "netflixid": 80144146,
@@ -107,14 +113,8 @@
             "expiredate": "2021-08-17",
             "countrycode": "KR",
             "title": "Alejandro Sanz: What I Was Is What I Am"
-        },
-        {
-            "netflixid": 70143844,
-            "expiredate": "2021-08-16",
-            "countrycode": "KR",
-            "title": "Sons of Anarchy"
         }
     ],
     "total": 19,
-    "elapse": 0.0033
+    "elapse": 0.0031
 }
