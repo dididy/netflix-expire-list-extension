@@ -1,10 +1,10 @@
 {
     "results": [
         {
-            "netflixid": 80241102,
+            "netflixid": 80240397,
             "expiredate": "2021-09-14",
             "countrycode": "KR",
-            "title": "Cabins in the Wild with Dick Strawbridge"
+            "title": "Three Wives One Husband"
         },
         {
             "netflixid": 80240816,
@@ -19,10 +19,10 @@
             "title": "How to Live Mortgage Free with Sarah Beeny"
         },
         {
-            "netflixid": 80240397,
+            "netflixid": 80241102,
             "expiredate": "2021-09-14",
             "countrycode": "KR",
-            "title": "Three Wives One Husband"
+            "title": "Cabins in the Wild with Dick Strawbridge"
         },
         {
             "netflixid": 81072571,
@@ -113,14 +113,8 @@
             "expiredate": "2021-08-23",
             "countrycode": "KR",
             "title": "The Other Woman"
-        },
-        {
-            "netflixid": 80000643,
-            "expiredate": "2021-08-21",
-            "countrycode": "KR",
-            "title": "Birdman or (The Unexpected Virtue of Ignorance)"
         }
     ],
-    "total": 20,
-    "elapse": 0.0035
+    "total": 19,
+    "elapse": 0.0031
 }
